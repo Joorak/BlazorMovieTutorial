@@ -1,0 +1,46 @@
+﻿@inherits LayoutComponentBase
+
+<div class="sidebar">
+    <NavMenu />
+</div>
+
+<div class="main">
+    
+    <div div style="display:flex;background: linear-gradient(90deg, rgb(5, 39, 103) 0%, #3a0647 70%);">
+        
+        <div style="flex: 45%">
+            <select aria-placeholder="Select theme color" @bind="appParameter.Color" class="form-control" style="margin-top: 15px;">
+                <option value="LIGHTSKYBLUE">LightBlueSky</option>
+                <option value="MAROON">Maroon</option>
+                <option value="GREENYELLOW">GreenYellow</option>
+            </select>
+        </div>
+        <div style="flex: 45%">
+            <select  @bind="appParameter.Size" class="form-control" style="margin-top: 15px;">
+                <option value="18px">18px</option>
+                <option value="24px">24px</option>
+                <option value="28px">28px</option>
+            </select>
+        </div>
+        <div style="flex: 10%;padding: 20px;"> 
+            <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
+        </div>
+    </div>
+
+    <div class="content px-4">
+               <CascadingValue Value="@appParameter">
+                    @Body
+               </CascadingValue>
+    </div>
+</div>
+@code
+{
+    AppParameter appParameter = new AppParameter();
+    public class AppParameter
+    {
+
+        public string Color { get; set; } = "LIGHTSKYBLUE";
+        public string Size { get; set; } = "18px";
+    }
+
+}

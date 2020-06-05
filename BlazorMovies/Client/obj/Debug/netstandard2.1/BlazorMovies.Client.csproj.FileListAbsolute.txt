@@ -1,0 +1,259 @@
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.blazor.config
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.StaticWebAssets.xml
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.pdb
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Markdig.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Mono.WebAssembly.Interop.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\Blazor.FileReader.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Shared.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Shared.pdb
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.csprojAssemblyReference.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.AssemblyInfoInputs.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.AssemblyInfo.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.csproj.CoreCompileInputs.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.RazorComponent.input.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\CreateGenre.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\EditGenre.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\GenreForm.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\IndexGenres.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\CreateMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\DetailsMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\EditMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\MovieFilter.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\MovieForm.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\CreatePerson.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\EditPerson.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\IndexPeople.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\PersonForm.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Confirmation.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CustomNotFound.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CustomTypeahead.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\GenericList.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\IndividualMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\InputImg.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\InputMarkdown.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MoviesList.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MultipleSelector.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MultipleSelectorTypeahead.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\RenderMarkdown.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\BlazorMovies.Client.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.TagHelpers.input.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.TagHelpers.output.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.RazorCoreGenerate.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\CreateGenre.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\EditGenre.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\GenreForm.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\IndexGenres.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\CreateMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\DetailsMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\EditMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\MovieFilter.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\MovieForm.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\CreatePerson.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\EditPerson.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\IndexPeople.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\PersonForm.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\Confirmation.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\CustomNotFound.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\CustomTypeahead.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\GenericList.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\IndividualMovie.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\InputImg.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\InputMarkdown.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MoviesList.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MultipleSelector.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MultipleSelectorTypeahead.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\RenderMarkdown.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.csproj.CopyComplete
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\staticwebassets\BlazorMovies.Client.StaticWebAssets.Manifest.cache
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\staticwebassets\BlazorMovies.Client.StaticWebAssets.xml
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.dll
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.pdb
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\blazor\linker.descriptor.xml
+C:\Users\Joorak\Desktop\Udemy – Programming in Blazor – ASP.NET Core 3.1 2020-1\Source - BlazorMovies\ASP.NET Core 3.1\Module 5 - Forms\End\BlazorMovies\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.StaticWebAssets.xml
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.blazor.config
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Client.pdb
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\wasm\mono.js
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\wasm\mono.wasm
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\blazor.webassembly.js
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Blazor.FileReader.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\BlazorMovies.Client.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\BlazorMovies.Shared.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Markdig.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.JSInterop.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\mscorlib.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Core.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Net.Http.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Encodings.Web.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Json.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Bindings.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Net.Http.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\dist\_framework\blazor.boot.json
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Markdig.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Mono.WebAssembly.Interop.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Memory.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\Blazor.FileReader.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Shared.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\bin\Debug\netstandard2.1\BlazorMovies.Shared.pdb
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.csprojAssemblyReference.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.AssemblyInfoInputs.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.AssemblyInfo.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.csproj.CoreCompileInputs.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.RazorComponent.input.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\CreateGenre.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\EditGenre.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\GenreForm.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Genres\IndexGenres.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\CreateMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\DetailsMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\EditMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\MovieFilter.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Movies\MovieForm.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\CreatePerson.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\EditPerson.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\IndexPeople.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\People\PersonForm.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Confirmation.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CustomNotFound.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CustomTypeahead.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\GenericList.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\IndividualMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\InputImg.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\InputMarkdown.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MoviesList.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MultipleSelector.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MultipleSelectorTypeahead.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\RenderMarkdown.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\RazorDeclaration\BlazorMovies.Client.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.TagHelpers.input.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.TagHelpers.output.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.RazorCoreGenerate.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\CreateGenre.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\EditGenre.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\GenreForm.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Genres\IndexGenres.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\CreateMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\DetailsMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\EditMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\MovieFilter.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\Movies\MovieForm.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\CreatePerson.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\EditPerson.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\IndexPeople.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Pages\People\PersonForm.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\Confirmation.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\CustomNotFound.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\CustomTypeahead.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\GenericList.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\IndividualMovie.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\InputImg.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\InputMarkdown.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MoviesList.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MultipleSelector.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\MultipleSelectorTypeahead.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\RenderMarkdown.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.RazorTargetAssemblyInfo.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.csproj.CopyComplete
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\staticwebassets\BlazorMovies.Client.StaticWebAssets.Manifest.cache
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\staticwebassets\BlazorMovies.Client.StaticWebAssets.xml
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.dll
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\BlazorMovies.Client.pdb
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\blazor\linker.descriptor.xml
+D:\My Projects\GitRepo\BlazorMovies\BlazorMovies\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json

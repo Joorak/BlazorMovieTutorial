@@ -1,0 +1,16 @@
+﻿@page "/counter"
+@using static BlazorMovies.Client.Shared.MainLayout
+
+<h1 style="color: @appParameter.Color;font-size: @appParameter.Size">Counter</h1>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<input type="number" @bind="currentCount" />
+
+
+@code {
+    [CascadingParameter] public AppParameter appParameter { get; set; }
+    
+}
