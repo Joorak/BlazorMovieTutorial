@@ -8,21 +8,21 @@
     
     <div div style="display:flex;background: linear-gradient(90deg, rgb(5, 39, 103) 0%, #3a0647 70%);">
         
-        <div style="flex: 45%">
-            <select aria-placeholder="Select theme color" @bind="appParameter.Color" class="form-control" style="margin-top: 15px;">
+        <div style="flex: 45%;padding:5px">
+            <select  @bind="appParameter.Color" class="form-control" style="margin: 15px;">
                 <option value="LIGHTSKYBLUE">LightBlueSky</option>
                 <option value="MAROON">Maroon</option>
                 <option value="GREENYELLOW">GreenYellow</option>
             </select>
         </div>
-        <div style="flex: 45%">
-            <select  @bind="appParameter.Size" class="form-control" style="margin-top: 15px;">
+        <div style="flex: 45%;padding:5px">
+            <select  @bind="appParameter.Size" class="form-control" style="margin: 15px;">
                 <option value="18px">18px</option>
                 <option value="24px">24px</option>
                 <option value="28px">28px</option>
             </select>
         </div>
-        <div style="flex: 10%;padding: 20px;"> 
+        <div style="flex: 10%;padding-top: 25px;text-align: center;"> 
             <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
         </div>
     </div>
