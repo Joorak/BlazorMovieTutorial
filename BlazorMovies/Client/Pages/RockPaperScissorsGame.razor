@@ -1,0 +1,124 @@
+@page "/RockPaperScissorsGame"
+@using System.Timers
+@implements IDisposable
+@using static BlazorMovies.Client.Shared.MainLayout
+
+<h1 style="color: @appParameter.Color;font-size: @appParameter.Size">Rock, Paper, Scissors</h1>
+
+@if (!string.IsNullOrEmpty(resultMessage))
+{
+    <h3 style="color: @resultMessageColor">@resultMessage</h3>
+}
+
+<button class="btn btn-info" @onclick="PlayAgain">Play Again</button>
+
+<div style="display:flex; justify-content: center; margin-bottom: 20px">
+    <img src="@opponentHand.Image" style="width: 200px;height: 200px;" />
+</div>
+
+<div style="display:flex; justify-content: space-around;">
+
+    @foreach (var hand in hands)
+    {
+        <img src="@hand.Image" style="width: 200px;height: 200px;" @onclick="@(() =>  SelectHand(hand))" />
+    }
+</div>
+<Confirmation @ref="ConfirmationDialog" Title="Play Again?" onCancel="onCancelMethod" onConfirm="onConfirmMethod">
+    <div>Click on Ok button if you want to play again, otherwise click cancel</div>
+</Confirmation>
+
+
+@code {
+    [CascadingParameter] public AppParameter appParameter { get; set; }
+    
+    Confirmation  ConfirmationDialog;
+    Timer timer;
+    Hand opponentHand;
+    string resultMessage = string.Empty;
+    string resultMessageColor = string.Empty;
+    List<Hand> hands = new List<Hand>()
+    {
+        new Hand{Selection = OptionRPS.Paper, LosesAgainst = OptionRPS.Scissors,
+            WinsAgainst = OptionRPS.Rock, Image = "images/paper.jpg"},
+
+        new Hand{Selection = OptionRPS.Rock, LosesAgainst = OptionRPS.Paper,
+            WinsAgainst = OptionRPS.Scissors, Image = "images/rock.jpg"},
+
+        new Hand{Selection = OptionRPS.Scissors, LosesAgainst = OptionRPS.Rock,
+            WinsAgainst = OptionRPS.Paper, Image = "images/scissors.jpg"},
+    };
+
+    
+
+    protected override void OnInitialized()
+    {
+        opponentHand = hands[0];
+        timer = new Timer();
+        timer.Interval = 100;
+        timer.Elapsed += TimerOnElapsed;
+        timer.Start();
+    }
+
+    int indexOpponentHand = 0;
+
+    private void TimerOnElapsed(object sender, ElapsedEventArgs e)
+    {
+        indexOpponentHand = (indexOpponentHand + 1) % hands.Count;
+        opponentHand = hands[indexOpponentHand];
+        StateHasChanged();
+    }
+
+    private void SelectHand(Hand hand)
+    {
+        timer.Stop();
+        var result = hand.PlayAgainst(opponentHand);
+
+        if (result == GameStatus.Victory)
+        {
+            resultMessage = "You won!";
+            resultMessageColor = "green";
+        }
+        else if (result == GameStatus.Loss)
+        {
+            resultMessage = "You lost!";
+            resultMessageColor = "red";
+        }
+        else
+        {
+            resultMessage = "Draw!";
+            resultMessageColor = "black";
+        }
+    }
+
+    private void PlayAgain()
+    {
+        ConfirmationDialog.Show();
+        
+    }
+
+    public void Dispose()
+    {
+        if (timer != null)
+        {
+            timer.Dispose();
+        }
+    }
+
+
+    #region "Confirm Dialog Methods"
+
+    void onConfirmMethod()
+    {
+        
+        ConfirmationDialog.Hide();
+        timer.Start();
+        resultMessage = string.Empty;
+    }
+
+    void onCancelMethod()
+    {
+        ConfirmationDialog.Hide();
+        resultMessage = string.Empty;
+    }
+    #endregion
+}

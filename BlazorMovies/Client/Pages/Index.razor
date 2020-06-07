@@ -22,6 +22,7 @@
     private List<Movie> movies;
     protected async override Task OnInitializedAsync()
     {
+        await   Task.Delay(1000);
         movies = repository.GetMovies();
     }
 
@@ -31,4 +32,28 @@
         if (searchText == "test") { return Enumerable.Empty<string>(); }
         return new List<string>() { "Felipe", "Gavilanch2" };
     }
+
+#region "Razor Page Lifetime events"
+    @* protected override void OnInitialized()
+    {
+        Console.WriteLine("OnInitialized. Movies.Count = " + movies.Count.ToString());
+    } *@
+
+
+    
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine("OnParametersSet. Movies.Count = " + movies.Count.ToString());
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.WriteLine("OnAfterRender. FirstRender = " + firstRender.ToString());
+    }
+
+    protected override bool ShouldRender()
+    {
+        return true;
+    }
+    #endregion
 }

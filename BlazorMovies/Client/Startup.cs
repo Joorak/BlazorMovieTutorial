@@ -9,6 +9,8 @@ namespace BlazorMovies.Client
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSingleton<SingletonService>();
+            services.AddTransient<TransientService>();
             services.AddTransient<IRepository, RepositoryInMemory>();
             services.AddFileReaderService(options => options.InitializeOnFirstCall = true);
         }
